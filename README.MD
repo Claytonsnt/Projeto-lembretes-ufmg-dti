@@ -1,6 +1,6 @@
 Lembretes DTI
 
-   O objetivo deste projeto é simular uma imersão dos alunos de Engenharia de Controle e Automação na empresa DTI Digital. Para isso, foi passado um desafio para
+   O objetivo deste projeto é simular uma imersão dos alunos de Engenharia de Controle e Automação da UFMG na empresa DTI Digital. Para isso, foi passado um desafio para
 que os alunos desenvolvessem um projeto de um sistema de lembretes.
 
    As funcionalidades do projeto são:
